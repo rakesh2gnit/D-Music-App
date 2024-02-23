@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375069756410",
+    "project_id": "d-music-app-91d4e",
+    "storage_bucket": "d-music-app-91d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375069756410:android:e120e6081bf28f5cd57243",
+        "android_client_info": {
+          "package_name": "app.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRkPN6Vi9QForC8DhTlCqh95ZykQtULoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
